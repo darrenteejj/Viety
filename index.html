@@ -209,6 +209,53 @@ button:focus-visible,input:focus-visible{outline:3px solid var(--yellow);outline
 .tabs button svg{width:27px;height:27px}
 .tabs button[aria-selected="true"]{color:var(--yellow)}
 
+/* Hán Việt chapter */
+.hv{position:fixed;inset:0;z-index:15;background:#0E1513;overflow:hidden}
+.hv-stage{position:absolute;inset:0}
+.hv-scene{position:absolute;margin:0!important;border-radius:0!important}
+.hv-scene>img.bg{width:100%;height:100%}
+.hv-poster{position:absolute;left:calc(103/941*100%);top:calc(168/1505*100%);width:calc(374/941*100%);height:calc(560/1505*100%);cursor:pointer;
+  background:radial-gradient(120% 90% at 30% 20%,rgba(255,255,255,.35),transparent 60%),radial-gradient(90% 70% at 80% 90%,rgba(120,70,20,.22),transparent 70%),
+  repeating-linear-gradient(0deg,rgba(90,60,20,.035) 0 2px,transparent 2px 4px),#EFE2C2;
+  box-shadow:inset 0 0 0 .5cqw #F7EED7,inset 0 0 0 1cqw #B5372C,inset 0 0 4cqw rgba(110,70,20,.35);display:flex;flex-direction:column;align-items:center;color:#1D3B37;overflow:hidden}
+.hv-poster:focus-visible{outline:3px solid var(--yellow);outline-offset:2px}
+.hv-band{margin-top:1.6cqw;width:calc(100% - 3.2cqw);background:#B5372C;color:#F7EED7;display:flex;justify-content:center;gap:2cqw;align-items:baseline;padding:1.1cqw 0 .9cqw;font-family:var(--f-label);font-weight:700;letter-spacing:.32em;font-size:2.5cqw}
+.hv-band .hv-zh{letter-spacing:.2em;font-family:"Songti SC","STSong","Noto Serif SC","Source Han Serif SC","SimSun",serif;font-weight:700}
+.hv-theme{margin-top:1.6cqw;font-family:var(--f-label);font-weight:700;letter-spacing:.2em;text-transform:uppercase;font-size:2cqw;color:#1F7D74}
+.hv-card{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.6cqw;width:100%;padding:0 2.4cqw;text-align:center}
+.hv-card.flip{animation:hvflip .45s ease}
+@keyframes hvflip{0%{opacity:0;transform:translateY(1.6cqw) scale(.96)}100%{opacity:1;transform:none}}
+.hv-vi{font-family:var(--f-script);font-size:6.4cqw;line-height:1.35;color:#B5372C;text-shadow:.25cqw .25cqw 0 rgba(181,55,44,.18);text-wrap:balance}
+.hv-han{font-family:"Songti SC","STSong","Noto Serif SC","Source Han Serif SC","SimSun",serif;font-weight:700;font-size:10.5cqw;line-height:1.1;color:#16403B;letter-spacing:.06em}
+.hv-py{font-weight:800;font-size:3.2cqw;color:#2F6D66;letter-spacing:.04em}
+.hv-rule{display:flex;align-items:center;gap:1.4cqw;width:60%;color:#C8A253;font-size:2.2cqw;margin:.6cqw 0}
+.hv-rule i{flex:1;height:.25cqw;background:#C8A253;border-radius:9px}
+.hv-en{font-weight:800;font-size:3.1cqw;color:#4A3B2A}
+.hv-foot{width:calc(100% - 3.2cqw);margin-bottom:1.6cqw;display:flex;justify-content:space-between;align-items:center;background:#1F5F59;color:#F7EED7;padding:.9cqw 2cqw;font-family:var(--f-label);font-weight:700;letter-spacing:.18em;font-size:2.1cqw}
+.hv-tap{font-size:2.6cqw;letter-spacing:0}
+.hv-x{position:absolute;z-index:2;left:14px;top:calc(env(safe-area-inset-top,0px) + 14px);width:42px;height:42px;border-radius:50%;background:rgba(10,40,37,.82);color:#F3EBD3;display:grid;place-items:center;box-shadow:0 2px 10px rgba(0,0,0,.35)}
+.hv-x svg{width:45%;height:45%}
+.hv-bar{position:absolute;left:calc(146/941*100%);top:calc(1303/1505*100%);width:calc(630/941*100%);height:calc(168/1505*100%);background:#F3EBD3;border:.35cqw solid #A9BDAF;border-radius:4.2cqw;display:flex;align-items:center;gap:2cqw;padding:0 2.6cqw;box-shadow:0 1.2cqw 3cqw rgba(0,0,0,.35);color:#163A37}
+.hv-mid{flex:1;min-width:0;text-align:left}
+.hv-mid small{display:block;font-family:var(--f-label);font-weight:700;letter-spacing:.1em;font-size:2.1cqw;color:#1E5C57;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hv-mid strong{display:block;font-size:5cqw;font-weight:900;line-height:1.15;white-space:nowrap}
+.hv-mid em{display:block;font-style:normal;font-weight:700;font-size:2.5cqw;opacity:.8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hv-next,.hv-prev{flex:none;border-radius:50%;display:grid;place-items:center}
+.hv-next{width:11cqw;height:11cqw;background:#1A7C74;color:#fff;box-shadow:0 .5cqw 0 #0F524C}
+.hv-next:active{transform:translateY(.3cqw);box-shadow:0 .2cqw 0 #0F524C}
+.hv-prev{width:7.5cqw;height:7.5cqw;background:#E3D8BB;color:#163A37}
+.hv-prev[disabled]{opacity:.35}
+.hv-next svg{width:45%;height:45%}.hv-prev svg{width:50%;height:50%}
+.hv-entry{display:flex;align-items:center;gap:12px;width:100%;text-align:left;margin-top:14px;padding:14px;border-radius:14px;color:#1D3B37;
+  background:repeating-linear-gradient(0deg,rgba(90,60,20,.035) 0 2px,transparent 2px 4px),#EFE2C2;box-shadow:inset 0 0 0 3px #F7EED7,inset 0 0 0 5px #B5372C,0 4px 0 rgba(0,0,0,.3)}
+.hv-entry-zh{flex:none;width:52px;height:52px;border-radius:10px;background:#B5372C;color:#F7EED7;display:grid;place-items:center;font-family:"Songti SC","STSong","Noto Serif SC",serif;font-weight:700;font-size:20px;letter-spacing:.05em}
+.hv-entry .t{flex:1;min-width:0}
+.hv-entry small{display:block;font-family:var(--f-label);font-weight:700;letter-spacing:.12em;font-size:11.5px;color:#B5372C}
+.hv-entry b{display:block;font-size:18px;font-weight:900}
+.hv-entry .t>span{display:block;font-size:12.5px;font-weight:700;color:#5C4E3B}
+.hv-entry .go{flex:none;width:40px;height:40px;border-radius:50%;background:#1A7C74;color:#fff;display:grid;place-items:center}
+.hv-entry .go svg{width:18px;height:18px}
+
 /* lesson sheet */
 .sheet{position:fixed;inset:0;background:var(--bg);z-index:10;overflow-y:auto;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 .sheet .in{max-width:480px;margin:0 auto;padding-inline:16px;padding-block:12px 24px;min-height:100%;display:flex;flex-direction:column}
@@ -323,6 +370,7 @@ button:focus-visible,input:focus-visible{outline:3px solid var(--yellow);outline
   <!-- ========== BÀI HỌC · LESSONS ========== -->
   <section id="tab-lessons" hidden>
     <div class="page-h"><h1>Bài học</h1><p id="lessonCount">13 lessons</p></div>
+    <button class="hv-entry" id="hvEntry"><span class="hv-entry-zh">汉越</span><span class="t"><small>CHƯƠNG ĐẶC BIỆT</small><b>Từ Hán Việt</b><span id="hvEntrySub">60 Vietnamese words from Chinese, read in Vietnamese and Mandarin</span></span><span class="go"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m9 5 7 7-7 7"/></svg></span></button>
     <div id="lessonList"></div>
     <div class="sec" style="margin-top:30px">
     <div class="sec-h"><h2>Nghe</h2><span>Listening practice</span></div>
@@ -356,6 +404,7 @@ button:focus-visible,input:focus-visible{outline:3px solid var(--yellow);outline
 </div></nav>
 
 <div class="sheet" id="sheet" hidden><div class="in" id="sheetIn"></div></div>
+<div class="hv" id="hv" hidden role="dialog" aria-label="Hán Việt chapter"><div class="hv-stage" id="hvStage"></div></div>
 
 <script>
 const ICON_SPK='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></svg>';
@@ -583,6 +632,20 @@ function speak(text,onend,rate){
   }catch(e){ toast("Audio couldn't play"); onend&&onend(); }
 }
 // iPhones only allow speech that starts inside a tap. The translation arrives later, so unlock speech on the tap itself.
+function sayPair(vi,zh){
+  if(!('speechSynthesis' in window)){ toast("Audio isn't available in this browser"); return; }
+  try{
+    const busy=speechSynthesis.speaking||speechSynthesis.pending; if(busy) speechSynthesis.cancel();
+    const a=new SpeechSynthesisUtterance(vi); a.lang='vi-VN'; a.rate=.8;
+    const va=voices.find(v=>/^vi/i.test(v.lang)); if(va) a.voice=va;
+    const gap=new SpeechSynthesisUtterance(' , '); gap.volume=0; gap.rate=.6;
+    const b=new SpeechSynthesisUtterance(zh); b.lang='zh-CN'; b.rate=.8;
+    const vb=voices.find(v=>/^zh[-_](CN|Hans)/i.test(v.lang))||voices.find(v=>/^cmn|^zh$/i.test(v.lang)); if(vb) b.voice=vb;
+    a.onstart=()=>Amb.duck(true); b.onend=b.onerror=()=>Amb.duck(false);
+    const go=()=>{ try{ speechSynthesis.resume(); }catch(e){} speechSynthesis.speak(a); speechSynthesis.speak(gap); speechSynthesis.speak(b); };
+    busy?setTimeout(go,90):go();
+  }catch(e){ toast("Audio couldn't play"); }
+}
 function primeSpeech(){ try{ if(!('speechSynthesis' in window)) return; const u=new SpeechSynthesisUtterance(' '); u.volume=0; u.lang='vi-VN'; speechSynthesis.speak(u); }catch(e){} }
 
 /* ---------- ambience: café music + street ---------- */
@@ -705,7 +768,7 @@ const DOTS=[[468,125],[496,129],[523,132],[549,135],[575,139],[600,142],[624,145
 let rendered=false;
 $('#dots').innerHTML=DOTS.map(([x,y])=>`<i class="dot" style="left:${100*x/W}%;top:${100*y/H}%"></i>`).join('');
 const SPOTS=[
- {x:90,y:160,w:395,h:575,vi:'Viety. Học tiếng Việt mỗi ngày',en:'Viety. Learn Vietnamese every day'},
+ {x:90,y:160,w:395,h:575,act:'hv'},
  {x:498,y:230,w:110,h:225,vi:'Xin chào!',en:'Hello!'},
  {x:498,y:458,w:110,h:240,vi:'Ăn phở nhé?',en:'Shall we have phở?'},
  {x:498,y:705,w:112,h:210,vi:'Đi đâu đây?',en:'Where shall we go?'},
@@ -727,7 +790,7 @@ const SPOTS=[
 ];
 const pct=(v,t)=>(100*v/t)+'%';
 $('#hotspots').innerHTML=SPOTS.map((s,i)=>{
-  const label=s.act==='topic'?TOPICS.find(t=>t.id===s.topic).en+' lessons':s.act==='board'?'Lessons completed':s.act==='book'?'Open phrasebook':s.act==='mascot'?'Your mascot':`${s.vi} — ${s.en}`;
+  const label=s.act==='topic'?TOPICS.find(t=>t.id===s.topic).en+' lessons':s.act==='board'?'Lessons completed':s.act==='book'?'Open phrasebook':s.act==='mascot'?'Your mascot':s.act==='hv'?'Hán Việt chapter: words from Chinese':`${s.vi} — ${s.en}`;
   return `<button class="hs" data-i="${i}" aria-label="${esc(label)}" style="left:${pct(s.x,W)};top:${pct(s.y,H)};width:${pct(s.w,W)};height:${pct(s.h,H)}"></button>`;
 }).join('');
 let bubT;
@@ -750,10 +813,102 @@ $('#hotspots').addEventListener('click',e=>{
   if(s.act==='topic'){ go('lessons'); const el=document.getElementById('topic-'+s.topic); el.scrollIntoView({behavior:'smooth',block:'start'}); el.classList.add('flash'); setTimeout(()=>el.classList.remove('flash'),1600); sfxTap(); return; }
   if(s.act==='board'){ const d=LESSONS.filter(l=>l.id in P.best).length; bubble(`${d} / ${LESSONS.length} bài đã học`,`${d} lessons completed · ${LESSONS.length-d} to go`,null,{x:500,y:195}); return; }
   if(s.act==='book'){ go('phrases'); return; }
+  if(s.act==='hv'){ openHV(); return; }
   if(s.act==='mascot'){ blinkNow(); const c=CHEERS[Math.floor(Math.random()*CHEERS.length)]; bubble(c[0],c[1],null,{x:275,y:715}); speak(c[0]); return; }
   bubble(s.vi,s.en,null,{x:s.x+s.w/2,y:s.y+8}); speak(s.vi);
 });
-function blinkNow(double){ const b=$('#blink'); b.classList.add('on'); setTimeout(()=>{ b.classList.remove('on'); if(double) setTimeout(()=>blinkNow(false),160); },140); }
+function blinkNow(double){ const bs=document.querySelectorAll('.blink'); bs.forEach(b=>b.classList.add('on')); setTimeout(()=>{ bs.forEach(b=>b.classList.remove('on')); if(double) setTimeout(()=>blinkNow(false),160); },140); }
+/* ---------- Hán Việt chapter ---------- */
+const HV_WORDS=[
+ ['Tình cảm',[
+  ['cảm ơn','感恩','gǎn’ēn','thank you'],['hạnh phúc','幸福','xìngfú','happiness'],['tình cảm','情感','qínggǎn','feelings, affection'],
+  ['lãng mạn','浪漫','làngmàn','romantic'],['chân thành','真诚','zhēnchéng','sincere'],['hy vọng','希望','xīwàng','hope'],
+  ['kỷ niệm','纪念','jìniàn','memory, keepsake'],['tự hào','自豪','zìháo','proud'],['bình an','平安','píng’ān','safe and well'],
+  ['hôn nhân','婚姻','hūnyīn','marriage'],['gia đình','家庭','jiātíng','family'],['tâm sự','心事','xīnshì','to confide'],
+ ]],
+ ['Cuộc sống',[
+  ['điện thoại','电话','diànhuà','phone'],['thời gian','时间','shíjiān','time'],['sinh nhật','生日','shēngrì','birthday'],
+  ['vấn đề','问题','wèntí','problem, issue'],['chú ý','注意','zhùyì','pay attention'],['cẩn thận','谨慎','jǐnshèn','careful'],
+  ['chuẩn bị','准备','zhǔnbèi','prepare'],['đồng ý','同意','tóngyì','agree'],['tạm biệt','暂别','zànbié','goodbye'],
+  ['trà','茶','chá','tea'],['tiền','钱','qián','money'],['thực phẩm','食品','shípǐn','food'],
+ ]],
+ ['Nơi chốn',[
+  ['Việt Nam','越南','Yuènán','Vietnam'],['Trung Quốc','中国','Zhōngguó','China'],['Hà Nội','河内','Hénèi','Hanoi'],
+  ['thế giới','世界','shìjiè','world'],['quốc gia','国家','guójiā','country'],['khách sạn','客栈','kèzhàn','hotel'],
+  ['bệnh viện','病院','bìngyuàn','hospital'],['ngân hàng','银行','yínháng','bank'],['đại học','大学','dàxué','university'],
+  ['thư viện','书院','shūyuàn','library'],['địa chỉ','地址','dìzhǐ','address'],['phòng','房','fáng','room'],
+ ]],
+ ['Con người · Công việc',[
+  ['kiến trúc sư','建筑师','jiànzhùshī','architect'],['bác sĩ','博士','bóshì','doctor'],['giáo viên','教员','jiàoyuán','teacher'],
+  ['học sinh','学生','xuéshēng','student'],['nhân viên','人员','rényuán','staff, employee'],['công ty','公司','gōngsī','company'],
+  ['kinh tế','经济','jīngjì','economy'],['kinh nghiệm','经验','jīngyàn','experience'],['cơ hội','机会','jīhuì','opportunity'],
+  ['thành công','成功','chénggōng','success'],['nỗ lực','努力','nǔlì','effort, try hard'],['phụ nữ','妇女','fùnǚ','woman'],
+ ]],
+ ['Thế giới quanh ta',[
+  ['văn hóa','文化','wénhuà','culture'],['lịch sử','历史','lìshǐ','history'],['âm nhạc','音乐','yīnyuè','music'],
+  ['nghệ thuật','艺术','yìshù','art'],['điện ảnh','电影','diànyǐng','cinema'],['du lịch','游历','yóulì','travel'],
+  ['phong cảnh','风景','fēngjǐng','scenery'],['thiên nhiên','天然','tiānrán','nature'],['động vật','动物','dòngwù','animal'],
+  ['khí hậu','气候','qìhòu','climate'],['tự do','自由','zìyóu','freedom'],['hòa bình','和平','hépíng','peace'],
+ ]],
+].flatMap(([theme,ws])=>ws.map(([vi,han,py,en])=>({vi,han,py,en,theme})));
+const HKEY='viety.hv';
+let hvI=0; try{ hvI=Math.min(+localStorage.getItem(HKEY)||0,HV_WORDS.length-1); }catch(e){}
+let hvBuilt=false;
+function buildHV(){
+  if(hvBuilt) return; hvBuilt=true;
+  const sc=$('#scene').cloneNode(true); sc.removeAttribute('id'); sc.classList.add('hv-scene');
+  sc.querySelectorAll('#hotspots,.ctrl,#nextBtn,#bubble,.hs').forEach(n=>n.remove());
+  sc.querySelectorAll('[id]').forEach(n=>n.removeAttribute('id'));
+  sc.insertAdjacentHTML('beforeend',`
+    <div class="hv-poster" id="hvPoster" role="button" tabindex="0" aria-label="Hear the word again">
+      <div class="hv-band"><span>HÁN VIỆT</span><span class="hv-zh">汉越词</span></div>
+      <div class="hv-theme" id="hvTheme"></div>
+      <div class="hv-card" id="hvCard">
+        <div class="hv-vi" id="hvVi"></div>
+        <div class="hv-han" id="hvHan"></div>
+        <div class="hv-py" id="hvPy"></div>
+        <div class="hv-rule"><i></i><b>★</b><i></i></div>
+        <div class="hv-en" id="hvEn"></div>
+      </div>
+      <div class="hv-foot"><span id="hvCount"></span><span class="hv-tap">🔊</span></div>
+    </div>
+    <div class="hv-bar">
+      <button class="hv-prev" id="hvPrev" aria-label="Previous word"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
+      <span class="hv-mid"><small>CHƯƠNG ĐẶC BIỆT · HÁN VIỆT</small><strong id="hvNextLbl">Tiếp theo</strong><em>Vietnamese, then Mandarin</em></span>
+      <button class="hv-next" id="hvNext" aria-label="Next word"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m9 5 7 7-7 7"/></svg></button>
+    </div>`);
+  $('#hvStage').appendChild(sc);
+  $('#hv').insertAdjacentHTML('beforeend',`<button class="hv-x" id="hvX" aria-label="Close chapter"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>`);
+  $('#hvX').onclick=closeHV;
+  $('#hvNext').onclick=()=>hvGo(1);
+  $('#hvPrev').onclick=()=>hvGo(-1);
+  const rp=()=>hvSay();
+  $('#hvPoster').onclick=rp; $('#hvPoster').onkeydown=e=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); rp(); } };
+  window.addEventListener('resize',()=>{ if(!$('#hv').hidden) fitHV(); });
+  document.addEventListener('keydown',e=>{ if($('#hv').hidden) return; if(e.key==='ArrowRight') hvGo(1); if(e.key==='ArrowLeft') hvGo(-1); if(e.key==='Escape') closeHV(); });
+}
+function fitHV(){
+  // fill the screen like a phone wallpaper, keeping the poster and the boy in view
+  const sc=$('#hvStage .hv-scene'), vw=window.innerWidth, vh=window.innerHeight, R=1505/941;
+  let W=Math.max(vw, vh/R), H=W*R;
+  const left = W>vw ? -Math.min(W-vw, W*84/941) : 0;
+  const top = H>vh ? -(H-vh) : 0;
+  Object.assign(sc.style,{width:W+'px',height:H+'px',left:left+'px',top:top+'px'});
+}
+function hvShow(anim){
+  const w=HV_WORDS[hvI];
+  $('#hvTheme').textContent=w.theme; $('#hvVi').textContent=w.vi; $('#hvHan').textContent=w.han; $('#hvPy').textContent=w.py; $('#hvEn').textContent=w.en;
+  $('#hvCount').textContent=`TỪ ${hvI+1} / ${HV_WORDS.length}`;
+  $('#hvNextLbl').textContent=hvI===HV_WORDS.length-1?'Học lại từ đầu':'Tiếp theo';
+  $('#hvPrev').disabled=hvI===0;
+  if(anim){ const c=$('#hvCard'); c.classList.remove('flip'); void c.offsetWidth; c.classList.add('flip'); }
+  try{ localStorage.setItem(HKEY,hvI); }catch(e){}
+}
+function hvGo(d){ hvI=(hvI+d+HV_WORDS.length)%HV_WORDS.length; if(d<0&&hvI===HV_WORDS.length-1&&false) hvI=0; hvShow(true); hvSay(); }
+function hvSay(){ const w=HV_WORDS[hvI]; sayPair(w.vi,w.han); blinkNow(); }
+function openHV(){ buildHV(); stopPlay&&stopPlay(); $('#hv').hidden=false; document.body.style.overflow='hidden'; fitHV(); hvShow(true); primeSpeech(); hvSay(); }
+function closeHV(){ $('#hv').hidden=true; document.body.style.overflow=''; try{speechSynthesis.cancel();}catch(e){} }
+
 (function loop(){ setTimeout(()=>{ if(!document.hidden) blinkNow(Math.random()<.25); loop(); }, 2600+Math.random()*3600); })();
 
 /* ---------- render ---------- */
@@ -899,7 +1054,8 @@ $('#trSave').onclick=()=>{ if(!trLast) return; P.custom=P.custom||[];
   else { P.custom.unshift({id:'u'+Date.now(),vi:trLast.vi,pr:trLast.pr||'',en:trLast.en,note:trLast.note||'',words:trLast.words||[]}); P.custom=P.custom.slice(0,200); toast('Saved to Sổ tay · My translations'); }
   save(); showTr(trLast); renderPhrases(); };
 
-function render(){ P.learned=P.learned.filter(id=>byId[id]); P.favs=P.favs.filter(id=>byId[id]||(P.custom||[]).some(c=>c.id===id)); renderLearn(); renderPhrases(); renderListen(); }
+$('#hvEntry').onclick=openHV;
+function render(){ const hs=$('#hvEntrySub'); if(hs) hs.textContent=(hvI>0?`Word ${hvI+1} of ${HV_WORDS.length} · `:`${HV_WORDS.length} words · `)+'Vietnamese and Mandarin, side by side'; P.learned=P.learned.filter(id=>byId[id]); P.favs=P.favs.filter(id=>byId[id]||(P.custom||[]).some(c=>c.id===id)); renderLearn(); renderPhrases(); renderListen(); }
 
 /* ---------- tabs ---------- */
 function go(tab){
