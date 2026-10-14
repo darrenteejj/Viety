@@ -466,12 +466,12 @@ const WB={
  l5:'Em=you|là=are|tất cả=everything|của=belonging to|anh=me',
  l6:'Em=you|đẹp trai=handsome (đẹp beautiful + trai guy)|quá=so!',
  l7:'Em=you|dễ thương=cute (dễ easy + thương to love)|quá=so!',
- l8:'Anh=I|tự hào=proud|về=about|em=you',
+ l8:'Anh=I|tự hào=proud (自豪)|về=about|em=you',
  l9:'Em=you|giỏi=good at it, skilled|lắm=very',
  l10:'Em=you|cười=smile|đẹp=beautiful|lắm=very',
  l11:'Em=you|ăn=eat|cơm=rice, a meal|chưa=yet?',
  l12:'Ngủ=sleep|ngon=well (lit. tasty)|nhé=okay? (soft ending)',
- l13:'Về=go back|nhà=home|cẩn thận=carefully|nhé=okay? (soft ending)',
+ l13:'Về=go back|nhà=home|cẩn thận=carefully (谨慎)|nhé=okay? (soft ending)',
  l14:'Anh=I|xin lỗi=apologise (xin ask + lỗi fault)|em=to you',
  l15:'Anh=I|sẽ=will|luôn=always|ở=be|bên=beside|em=you',
  h1:'Hẹn hò=go on a date|nhé=shall we?',
@@ -485,10 +485,10 @@ const WB={
  d4:'Để=let|anh=me|trả=pay',
  d5:'Hôm nay=today|vui=fun, happy|quá=so!',
  g1:'Xin=(polite opener)|chào=hello, greet',
- g2:'Cảm ơn=thank (cảm feel + ơn kindness)',
+ g2:'Cảm ơn=thank (感恩)',
  g3:'Không=no, not|có=there is|gì=anything',
  g4:'Xin=ask, beg|lỗi=fault, mistake',
- g5:'Tạm=for now|biệt=part ways',
+ g5:'Tạm=for now (暂)|biệt=part ways (别)',
  g6:'Bạn=you (friend)|khỏe=well, healthy|không=? (yes/no question)',
  g7:'Tôi=I|khỏe=well|cảm ơn=thanks',
  g8:'Tôi=I, my|tên=name|là=is|Darren=Darren',
@@ -497,28 +497,28 @@ const WB={
  c1:'Cho=give|tôi=me|một=one|ly=glass|cà phê=coffee|đen=black|đá=ice',
  c2:'Không=no|sữa=milk|nhé=okay? (soft ending)',
  c3:'Tôi=I|không=not|uống=drink|được=able to|sữa=milk',
- c4:'Cho=give|tôi=me|một=one|ly=glass|trà=tea|đá=ice',
- c5:'Ít=a little|đường=sugar|thôi=only, just',
+ c4:'Cho=give|tôi=me|một=one|ly=glass|trà=tea (茶)|đá=ice',
+ c5:'Ít=a little|đường=sugar (糖)|thôi=only, just',
  f1:'Cho=give|tôi=me|một=one|tô=bowl|phở=phở|bò=beef',
  f2:'Cho=give|tôi=me|một=one|ổ=loaf (counting word)|bánh mì=bread, bánh mì',
  f3:'Không=not|cay=spicy',
  f4:'Ngon=delicious|quá=so!',
- f5:'Tính=calculate|tiền=money',
+ f5:'Tính=calculate|tiền=money (钱)',
  m1:'Con=I (as a child, to elders)|chào=greet|hai=two|bác=you (elders)|ạ=(respect ending)',
  m2:'Con=I (to elders)|cảm ơn=thank|ạ=(respect ending)',
  m3:'Con=I (to elders)|mời=invite|cả nhà=everyone (cả whole + nhà family)|ăn=eat|cơm=rice, a meal',
  m4:'Cả nhà=everyone at home|khỏe=well|không=? (yes/no question)|ạ=(respect ending)',
  m5:'Chúc mừng=wish, congratulate|năm=year|mới=new',
- t1:'Cho=let|tôi=me|đến=go to|địa chỉ=address|này=this',
+ t1:'Cho=let|tôi=me|đến=go to|địa chỉ=address (地址)|này=this',
  t2:'Rẽ=turn|trái=left',
  t3:'Rẽ=turn|phải=right',
  t4:'Đi=go|thẳng=straight',
  t5:'Dừng=stop|ở=at|đây=here',
- t6:'Bao nhiêu=how much|tiền=money',
+ t6:'Bao nhiêu=how much|tiền=money (钱)',
  t7:'Đắt=expensive|quá=too!',
  t8:'Bớt=reduce|chút=a little|được=possible|không=? (yes/no question)',
- t9:'Nhà vệ sinh=toilet (nhà room + vệ sinh hygiene)|ở=at|đâu=where',
- t10:'Tôi=I|muốn=want|đặt=book|phòng=room',
+ t9:'Nhà vệ sinh=toilet (卫生)|ở=at|đâu=where',
+ t10:'Tôi=I|muốn=want|đặt=book|phòng=room (房)',
 };
 const parseWB=s=>s.split('|').map(x=>{const i=x.indexOf('=');return {vi:x.slice(0,i).trim(),en:x.slice(i+1).trim()};});
 PHRASES.forEach(p=>{ if(WB[p.id]) p.words=parseWB(WB[p.id]); });
@@ -872,6 +872,7 @@ async function translate(){
 Translate the English below. Keep it short and natural, the way a native speaker in Ho Chi Minh City would say it. Use correct diacritics.
 Reply with JSON only: {"vi": "the Vietnamese sentence", "pr": "a simple pronunciation guide using English letters, lowercase, no tone marks, e.g. 'ahn yew em'", "words": [{"vi": "a Vietnamese word in sentence order, exactly as written in vi", "en": "its meaning in this sentence, 1-5 English words"}], "note": "one short sentence (max 20 words) explaining a key word choice or politeness point, or an empty string"}
 For "words": cover every word of "vi" in order. Keep compound words together as one entry (cà phê, xin lỗi, dễ thương, bánh mì, cảm ơn) and add the literal parts in brackets when helpful, e.g. "cute (dễ easy + thương love)". Particles like nhé, ạ, không, chưa, quá get a short note on what they do, e.g. "okay? (soft ending)". Skip punctuation.
+If a word clearly comes from Chinese (Hán Việt), end its "en" with the simplified Chinese characters in brackets and nothing else, e.g. kiến trúc sư → "architect (建筑师)", cảm ơn → "thank (感恩)". No pinyin, no explanation. Native Vietnamese words get no brackets.
 English: ${text}`;
     const r=await sample.json(prompt,{modelTier:'quick',cache:true});
     if(!r||typeof r.vi!=='string'||!r.vi.trim()) throw {code:'invalid_json'};
