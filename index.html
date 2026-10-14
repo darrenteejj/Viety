@@ -571,16 +571,19 @@ if('speechSynthesis' in window){ loadVoices(); speechSynthesis.onvoiceschanged=l
 function speak(text,onend,rate){
   if(!('speechSynthesis' in window)){ toast("Audio isn't available in this browser"); onend&&setTimeout(onend,1500); return; }
   try{
-    speechSynthesis.cancel();
+    const busy=speechSynthesis.speaking||speechSynthesis.pending; if(busy) speechSynthesis.cancel();
     const u=new SpeechSynthesisUtterance(text); u.lang='vi-VN'; u.rate=rate||.82;
     const v=voices.find(v=>/^vi/i.test(v.lang)); if(v) u.voice=v;
     else if(voices.length&&!warned){ warned=true; toast('No Vietnamese voice on this device, so audio may sound off'); }
     let done=false; const fin=()=>{ if(done) return; done=true; Amb.duck(false); onend&&onend(); };
     u.onstart=()=>Amb.duck(true); u.onend=fin; u.onerror=fin;
     setTimeout(fin, 1800+text.length*140);
-    speechSynthesis.speak(u);
+    const go=()=>{ try{ speechSynthesis.resume(); }catch(e){} speechSynthesis.speak(u); };
+    busy?setTimeout(go,90):go(); // Safari drops an utterance queued right after cancel()
   }catch(e){ toast("Audio couldn't play"); onend&&onend(); }
 }
+// iPhones only allow speech that starts inside a tap. The translation arrives later, so unlock speech on the tap itself.
+function primeSpeech(){ try{ if(!('speechSynthesis' in window)) return; const u=new SpeechSynthesisUtterance(' '); u.volume=0; u.lang='vi-VN'; speechSynthesis.speak(u); }catch(e){} }
 
 /* ---------- ambience: café music + street ---------- */
 const Amb=(()=>{
@@ -860,6 +863,7 @@ function showTr(r){
 }
 async function translate(){
   const text=$('#trIn').value.trim(); if(!text){ $('#trIn').focus(); return; }
+  primeSpeech();
   const btn=$('#trGo'); btn.disabled=true; btn.innerHTML='<span class="tr-wait"></span> Đang dịch…';
   try{
     const sample=await getSampler();
@@ -877,7 +881,7 @@ English: ${text}`;
   }catch(e){
     const m=localMatch(text);
     const why=e&&e.code==='not_granted'?'Translating needs your OK for Viety to ask Claude.':e&&e.code==='rate_limited'?'Too many translations just now. Try again in a minute.':e&&e.code==='web'?'Couldn\'t reach the translator. Check your connection.':e&&e.code==='unavailable'?'Live translation isn\'t available in this view.':"Couldn't translate that just now.";
-    if(m){ showTr({vi:m.vi,pr:m.pr,note:why+' Closest phrase from your Sổ tay: '+m.en,en:m.en,words:m.words}); }
+    if(m){ showTr({vi:m.vi,pr:m.pr,note:why+' Closest phrase from your Sổ tay: '+m.en,en:m.en,words:m.words}); speak(m.vi); }
     else { $('#trOut').hidden=false; trLast=null; $('#trVi').textContent='—'; $('#trPr').textContent=''; $('#trNote').textContent=why; }
   }finally{ btn.disabled=false; btn.textContent='Dịch · Translate'; }
 }
