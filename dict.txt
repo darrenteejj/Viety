@@ -1,0 +1,2103 @@
+tôi|I, me
+tao|I (very casual)
+mày|you (very casual)
+anh|I / you (older man), England, English
+em|I / you (younger)
+chị|you (older woman)
+ông|you (older man), grandfather
+bà|you (older woman), grandmother
+cô|you (young woman), aunt
+chú|you (younger uncle)
+bác|you (elder), uncle/aunt|伯
+cháu|I (to elders), grandchild, niece/nephew
+con|I (to parents), child, (counter for animals)
+bạn|you, friend|伴
+mình|we, I, oneself
+chúng tôi|we (not you)
+chúng ta|we (including you)
+chúng mình|we, us (friendly)
+họ|they
+nó|it, he/she (casual)
+người ta|people, someone
+ai|who, anyone
+gì|what
+nào|which
+đâu|where
+sao|why, how, star
+tại sao|why
+vì sao|why
+thế nào|how
+như thế nào|how
+bao nhiêu|how much, how many
+mấy|how many, a few
+bao giờ|when
+khi nào|when
+lúc nào|when, always
+này|this
+đó|that
+kia|that (over there)
+ấy|that (mentioned)
+đây|here, this
+đấy|there, that
+đó là|that is
+đây là|this is
+ở đây|here
+ở đó|there
+ở kia|over there
+là|is, am, are
+có|have, there is, yes
+không|no, not
+chưa|not yet
+đã|already (past)
+đang|-ing (now)
+sẽ|will
+sắp|about to
+vừa|just (recently), fit, just right
+mới|just, new
+rồi|already, then
+cũng|also, too
+vẫn|still
+còn|still, remaining, still have
+nữa|more, again
+lại|again, come back
+đều|all, both
+chỉ|only, point
+thôi|only, stop, let's
+lắm|very
+rất|very
+quá|too, so
+hơi|a bit, slightly
+khá|quite
+cực kỳ|extremely|极其
+thật|really, true, real
+thật sự|really|实事
+hơn|more, -er
+nhất|most, -est|一
+bằng|equal, as … as, by, degree
+như|like, as
+giống|similar, like
+khác|other, different
+và|and
+với|with
+hoặc|or
+hay|or, often, interesting, good
+nhưng|but
+mà|but, that, which
+vì|because|为
+bởi vì|because
+nên|so, should
+cho nên|therefore
+nếu|if
+thì|then
+khi|when
+lúc|at the moment
+trong khi|while
+sau khi|after
+trước khi|before
+để|to, in order to, let, put
+của|of, belonging to
+cho|give, for, let
+từ|from, word
+đến|to, arrive
+tới|to, arrive
+về|about, return
+ở|at, in, live
+trong|in, inside
+ngoài|outside
+trên|on, above
+dưới|under, below
+giữa|between, middle
+bên|side, beside|边
+bên cạnh|next to
+gần|near
+xa|far
+trước|before, front
+sau|after, behind
+cạnh|beside
+quanh|around
+theo|follow, according to
+qua|through, past, over
+lên|up
+xuống|down
+ra|out
+vào|in, enter
+đi|go
+nhé|okay? (soft ending)
+nha|okay? (southern soft ending)
+ạ|(polite ending)
+à|(question / surprise)
+ơi|hey (calling someone)
+ừ|yeah
+vâng|yes (polite)
+dạ|yes (polite, southern)
+đúng|right, correct
+sai|wrong
+được|can, okay, get|得
+phải|must, right, have to
+cần|need, needed
+muốn|want
+thích|like
+yêu|love
+ghét|hate
+biết|know
+hiểu|understand
+nghĩ|think
+nhớ|remember, miss
+quên|forget
+tin|believe, news|信
+hy vọng|hope|希望
+mong|hope, wish
+sợ|afraid
+lo|worry
+lo lắng|worried, anxious
+cố gắng|try hard
+có thể|can, maybe
+chắc|surely, probably
+chắc chắn|certainly
+có lẽ|perhaps
+hình như|it seems, seems
+tất cả|all, everything
+mọi|every
+mọi người|everyone
+ai cũng|everyone
+cái gì|what
+điều gì|what thing
+cái|thing (counter)
+chiếc|(counter for objects)
+người|person, people
+những|(plural)
+các|(plural, all the)
+một|one, a
+hai|two
+ba|three, dad (southern)
+bốn|four
+năm|five, year
+sáu|six
+bảy|seven
+tám|eight
+chín|nine, cooked, ripe
+mười|ten
+mươi|-ty (tens)
+mốt|one (in 21, 31…)
+lăm|five (in 15, 25…)
+trăm|hundred
+nghìn|thousand
+ngàn|thousand (southern)
+triệu|million|兆
+tỷ|billion
+nửa|half
+rưỡi|and a half
+đầu tiên|first
+thứ nhất|first|第一
+thứ hai|second, Monday
+cuối cùng|finally, last
+lần|time (occurrence)
+lần đầu|first time
+nhiều|many, much
+ít|few, little
+một chút|a little
+một ít|a little
+hết|all gone, finished
+đủ|enough
+thêm|more, add
+bớt|less, reduce
+cả|whole, all
+từng|each, ever
+mỗi|each, every
+nhau|each other
+tự|self|自
+chính|main, exactly|正
+cùng|together, same
+riêng|private, own
+chung|common, shared
+bây giờ|now
+hôm nay|today
+hôm qua|yesterday
+ngày mai|tomorrow
+ngày kia|day after tomorrow
+hôm kia|day before yesterday
+sáng|morning, bright
+buổi sáng|morning
+trưa|noon
+buổi trưa|noon
+chiều|afternoon
+buổi chiều|afternoon
+tối|evening, dark
+buổi tối|evening
+đêm|night
+nửa đêm|midnight
+sáng nay|this morning
+tối nay|tonight
+đêm nay|tonight
+ngày|day
+tuần|week|旬
+tháng|month
+năm nay|this year
+năm sau|next year
+năm ngoái|last year
+tuần sau|next week
+tuần trước|last week
+tháng sau|next month
+tháng trước|last month
+cuối tuần|weekend
+giờ|hour, o'clock, time
+phút|minute
+giây|second
+lúc này|right now
+sớm|early
+muộn|late
+trễ|late (southern)
+luôn|always
+luôn luôn|always
+thường|usually, ordinary|常
+thường xuyên|regularly|常川
+đôi khi|sometimes
+thỉnh thoảng|occasionally
+không bao giờ|never
+bao giờ cũng|always
+mãi mãi|forever
+sắp tới|upcoming
+gần đây|recently
+lâu|long (time)
+ngay|right away
+ngay lập tức|immediately|立即
+nhanh|fast
+chậm|slow
+thời gian|time|时间
+thời tiết|weather|时节
+quá khứ|past|过去
+hiện tại|present|现在
+tương lai|future|将来
+sinh nhật|birthday|生日
+lễ|festival, ceremony|礼
+tết|Lunar New Year|节
+giáng sinh|Christmas|降生
+ngày lễ|holiday
+nghỉ|rest, day off
+kỳ nghỉ|holiday, vacation
+thứ ba|Tuesday, third
+thứ tư|Wednesday, fourth
+thứ năm|Thursday, fifth
+thứ sáu|Friday, sixth
+thứ bảy|Saturday, seventh
+chủ nhật|Sunday|主日
+xuân|spring|春
+mùa xuân|spring|春
+hè|summer|夏
+mùa hè|summer
+thu|autumn|秋
+mùa thu|autumn
+đông|winter, crowded, east
+mùa đông|winter
+mùa|season
+mùa mưa|rainy season
+người yêu|sweetheart
+bạn trai|boyfriend
+bạn gái|girlfriend
+bạn bè|friends
+bạn thân|best friend
+chồng|husband
+vợ|wife
+ông xã|hubby
+bà xã|wifey
+gia đình|family|家庭
+bố|dad
+mẹ|mum
+má|mum (southern), cheek
+cha|father
+bố mẹ|parents
+ba mẹ|parents (southern)
+cha mẹ|parents
+anh trai|older brother
+chị gái|older sister
+em trai|younger brother
+em gái|younger sister
+anh chị em|siblings
+ông bà|grandparents
+con trai|son, boy
+con gái|daughter, girl
+họ hàng|relatives
+đàn ông|man
+phụ nữ|woman|妇女
+con người|human being
+trẻ em|children
+em bé|baby
+người lớn|adult
+thanh niên|young people|青年
+người già|elderly
+bạn học|classmate
+đồng nghiệp|colleague|同业
+hàng xóm|neighbour
+khách|guest, customer|客
+khách hàng|customer, client
+chủ|owner, master|主
+ông chủ|boss
+sếp|boss
+nhân viên|staff, employee|人员
+giám đốc|director|监督
+bác sĩ|doctor|博士
+y tá|nurse|医佐
+giáo viên|teacher|教员
+thầy|teacher (male)
+cô giáo|teacher (female)
+học sinh|student (school)|学生
+sinh viên|university student|生员
+kỹ sư|engineer|技师
+kiến trúc sư|architect|建筑师
+luật sư|lawyer|律师
+cảnh sát|police|警察
+tài xế|driver
+đầu bếp|chef
+ca sĩ|singer|歌士
+diễn viên|actor|演员
+nghệ sĩ|artist|艺士
+nhà văn|writer
+nông dân|farmer|农民
+công nhân|worker|工人
+doanh nhân|businessperson
+người nước ngoài|foreigner
+người việt|Vietnamese person
+người việt nam|Vietnamese person
+người singapore|Singaporean
+người trung quốc|Chinese person
+tên|name
+tuổi|age, years old
+ăn|eat
+uống|drink
+ngủ|sleep
+thức|stay awake
+thức dậy|wake up
+dậy|get up
+nằm|lie down
+ngồi|sit
+đứng|stand
+chạy|run
+đi bộ|walk
+bơi|swim
+nhảy|jump, dance
+múa|dance
+hát|sing
+chơi|play
+làm|do, make, work
+làm việc|work
+học|study, learn|学
+học tập|study|学习
+dạy|teach
+đọc|read
+viết|write
+nói|speak, say
+nói chuyện|talk, chat
+kể|tell
+hỏi|ask
+trả lời|answer
+gọi|call, order
+gọi điện|phone someone
+nghe|listen, hear
+nhìn|look
+xem|watch, see
+thấy|see, feel
+nhận|receive
+gửi|send
+mua|buy
+bán|sell
+trả|pay, return
+trả tiền|pay
+tiêu|spend, pepper
+tiết kiệm|save (money)|节俭
+mượn|borrow
+cho mượn|lend
+mở|open
+đóng|close
+bật|turn on
+tắt|turn off
+bắt đầu|start
+kết thúc|end|结束
+dừng|stop
+chờ|wait
+đợi|wait
+gặp|meet
+gặp nhau|meet each other
+thăm|visit
+đón|pick up, welcome
+đưa|give, take (someone)
+mang|bring, carry
+cầm|hold
+lấy|take, get
+đặt|put, book
+đặt phòng|book a room
+đặt bàn|book a table
+tìm|look for
+tìm thấy|find
+mất|lose, take (time)
+giữ|keep
+giúp|help
+giúp đỡ|help
+cứu|save, rescue|救
+chăm sóc|take care of
+nấu|cook
+nấu ăn|cook
+rửa|wash
+giặt|wash (clothes)
+tắm|bathe, shower
+dọn|tidy
+dọn dẹp|clean up
+mặc|wear
+cởi|take off
+thay|change
+sửa|fix, repair
+xây|build
+xây dựng|build, construct, construction|建
+thiết kế|design|设计
+vẽ|draw
+chụp ảnh|take photos
+chụp hình|take photos
+lái|drive
+lái xe|drive
+đi xe|ride
+đạp xe|cycle
+bay|fly
+đi du lịch|travel
+du lịch|travel, tourism|游历
+về nhà|go home
+ra ngoài|go out
+đi chơi|go out, hang out
+đi làm|go to work
+đi học|go to school
+nghỉ ngơi|rest
+thư giãn|relax
+tập|practise, exercise|习
+tập thể dục|exercise
+luyện tập|practise|练习
+thử|try
+chọn|choose
+quyết định|decide|决定
+thay đổi|change
+so sánh|compare
+chuẩn bị|prepare|准备
+sắp xếp|arrange
+kiểm tra|check|检查
+thi|take an exam|试
+đỗ|pass (exam), park
+trượt|fail, slip
+thắng|win|胜
+thua|lose
+cười|laugh, smile
+khóc|cry
+hôn|kiss
+ôm|hug
+nắm tay|hold hands
+cưới|marry
+kết hôn|get married|结婚
+ly hôn|divorce|离婚
+sống|live, raw
+chết|die
+sinh|be born|生
+lớn lên|grow up
+già|old (age), old (person)
+bị|suffer, get (passive)
+bị ốm|be sick
+ốm|sick, thin, thin (southern)
+bệnh|illness|病
+đau|hurt, pain
+khỏi|recover
+chữa|cure, treat
+khám|examine
+uống thuốc|take medicine
+đồng ý|agree|同意
+từ chối|refuse
+xin|ask for, please
+xin lỗi|sorry
+cảm ơn|thank you|感恩
+cám ơn|thank you|感恩
+chúc|wish|祝
+chúc mừng|congratulations|祝
+mời|invite
+khen|praise
+trách|blame|责
+giận|angry
+cãi nhau|argue
+tha thứ|forgive
+hứa|promise|许
+nhắn|message, text
+nhắn tin|send a message
+đăng|post
+chia sẻ|share
+dùng|use
+sử dụng|use|使用
+cần thiết|necessary
+cho phép|allow
+cấm|forbid|禁
+nhận ra|realise
+quan tâm|care about, care|关心
+chú ý|pay attention|注意
+giải thích|explain|解释
+dịch|translate|译
+phát âm|pronounce|发音
+lặp lại|repeat
+nhắc lại|repeat
+ghi nhớ|memorise
+ôn|review
+ôn tập|revise
+hiểu biết|knowledge
+làm quen|get to know
+trở thành|become
+trở lại|come back
+quay lại|turn back, return
+bắt|catch
+ném|throw
+kéo|pull
+đẩy|push
+leo|climb
+rơi|fall
+ngã|fall over
+đánh|hit
+đá|kick, ice, stone
+cắt|cut
+ký|sign|记
+in|print|印
+tính|calculate
+đếm|count
+đo|measure
+cân|weigh, scale, kilogram
+nếm|taste
+ngửi|smell
+cảm thấy|feel|感
+cảm|feel, catch cold|感
+mơ|dream
+ước|wish
+ước mơ|dream, wish
+tốt|good
+xấu|bad, ugly
+đẹp|beautiful
+đẹp trai|handsome
+xinh|pretty
+xinh đẹp|beautiful
+dễ thương|cute
+đáng yêu|lovely
+dễ|easy
+khó|difficult
+to|big
+lớn|big, adult
+nhỏ|small
+bé|small, little
+cao|tall, high|高
+thấp|short, low
+dài|long
+ngắn|short
+rộng|wide
+hẹp|narrow
+dày|thick
+mỏng|thin
+béo|fat
+mập|fat (southern)
+gầy|thin
+khỏe|healthy, well
+mạnh|strong|猛
+yếu|weak
+nặng|heavy
+nhẹ|light
+nóng|hot
+lạnh|cold|冷
+mát|cool
+ấm|warm, kettle
+ẩm|humid
+khô|dry
+ướt|wet
+sạch|clean
+bẩn|dirty
+dơ|dirty (southern)
+cũ|old (thing)
+trẻ|young
+đắt|expensive
+mắc|expensive (southern)
+rẻ|cheap
+ngon|delicious
+dở|bad (taste), poor
+cay|spicy
+ngọt|sweet
+chua|sour
+mặn|salty
+đắng|bitter
+nhạt|bland
+thơm|fragrant
+giòn|crispy
+mềm|soft
+cứng|hard
+vui|happy, fun
+buồn|sad, bored
+vui vẻ|cheerful
+hạnh phúc|happy, happiness|幸福
+mệt|tired
+mệt mỏi|exhausted
+đói|hungry
+no|full (after eating)
+khát|thirsty|渴
+buồn ngủ|sleepy
+chán|bored
+thú vị|interesting|趣味
+tuyệt|great|绝
+tuyệt vời|wonderful|绝
+giỏi|good at, skilled
+thông minh|clever|聪明
+ngốc|silly
+dễ chịu|pleasant
+khó chịu|uncomfortable, annoyed
+bận|busy
+rảnh|free (not busy)
+yên tĩnh|quiet|安静
+ồn|noisy
+ồn ào|noisy
+vắng|empty, quiet
+an toàn|safe|安全
+nguy hiểm|dangerous|危险
+quan trọng|important|关重
+đặc biệt|special|特别
+bình thường|normal|平常
+đơn giản|simple|单简
+phức tạp|complicated|复杂
+rõ|clear
+rõ ràng|clearly
+chính xác|accurate|正确
+đúng giờ|on time
+sẵn sàng|ready
+giả|fake|假
+miễn phí|free of charge|免费
+tiện|convenient
+tiện lợi|convenient|便利
+hiện đại|modern|现代
+truyền thống|traditional|传统
+nổi tiếng|famous
+lịch sự|polite|历事
+tử tế|kind
+hiền|gentle|贤
+dịu dàng|gentle, tender
+ngọt ngào|sweet (romantic)
+lãng mạn|romantic|浪漫
+chân thành|sincere|真诚
+thật thà|honest
+kiên nhẫn|patient|坚忍
+tự tin|confident|自信
+tự hào|proud|自豪
+xấu hổ|ashamed, shy
+ngại|shy, hesitant
+cô đơn|lonely|孤单
+nhớ nhà|homesick
+ghen|jealous
+tức giận|angry
+bực|annoyed
+sợ hãi|scared
+ngạc nhiên|surprised
+hồi hộp|nervous
+yên tâm|reassured|安心
+bình tĩnh|calm|平静
+may mắn|lucky
+xui|unlucky
+khỏe mạnh|healthy
+ổn|okay, stable|稳
+được rồi|okay, done
+màu|colour
+đỏ|red
+xanh|blue, green
+xanh dương|blue
+xanh lá|green
+vàng|yellow, gold
+trắng|white
+đen|black
+hồng|pink|红
+tím|purple
+cam|orange
+nâu|brown
+xám|grey
+nhà|house, home
+căn hộ|apartment
+phòng|room|房
+phòng ngủ|bedroom
+phòng khách|living room
+phòng tắm|bathroom
+nhà bếp|kitchen
+bếp|kitchen, stove
+nhà vệ sinh|toilet
+vệ sinh|hygiene, clean|卫生
+cửa|door
+cửa sổ|window
+tường|wall|墙
+sàn|floor
+mái|roof
+cầu thang|stairs
+thang máy|lift
+bàn|table
+ghế|chair
+giường|bed
+tủ|cupboard
+tủ lạnh|fridge
+quạt|fan
+đèn|lamp, light
+máy lạnh|air-con
+điều hòa|air-con|调和
+máy giặt|washing machine
+tivi|TV
+điện|electricity|电
+nước|water, country
+chìa khóa|key
+điện thoại|phone|电话
+máy tính|computer
+mạng|network, internet
+sạc|charger
+pin|battery
+tin nhắn|message
+ảnh|photo|影
+hình|picture, shape|形
+sách|book|册
+vở|notebook
+bút|pen|笔
+giấy|paper|纸
+túi|bag
+ví|wallet
+tiền|money|钱
+tiền mặt|cash
+thẻ|card
+quần áo|clothes
+áo|shirt, top
+quần|trousers
+váy|skirt, dress
+giày|shoes
+dép|sandals
+mũ|hat
+nón|conical hat
+nón lá|leaf hat
+kính|glasses, glass|镜
+đồng hồ|watch, clock|铜壶
+ô|umbrella
+dù|umbrella (southern)
+xe|vehicle
+xe máy|motorbike
+xe đạp|bicycle
+ô tô|car
+xe hơi|car (southern)
+xe buýt|bus
+taxi|taxi
+tàu|train, ship
+tàu hỏa|train
+máy bay|aeroplane
+thuyền|boat|船
+vé|ticket
+hộ chiếu|passport|护照
+hành lý|luggage|行李
+va li|suitcase
+bản đồ|map|版图
+đường|road, sugar|糖
+con đường|road, way
+đường phố|street, streets
+phố|street|铺
+ngã tư|crossroads
+cầu|bridge
+chợ|market
+siêu thị|supermarket|超市
+cửa hàng|shop
+tiệm|shop|店
+quán|eatery, café|馆
+quán cà phê|café
+nhà hàng|restaurant
+khách sạn|hotel|客栈
+sân bay|airport
+ga|station
+bến xe|bus station
+bệnh viện|hospital|病院
+nhà thuốc|pharmacy
+ngân hàng|bank|银行
+bưu điện|post office|邮电
+trường|school|场
+trường học|school
+đại học|university|大学
+thư viện|library|书院
+công ty|company|公司
+văn phòng|office|文房
+công viên|park|公园
+bãi biển|beach
+biển|sea
+núi|mountain
+sông|river
+hồ|lake|湖
+rừng|forest
+đảo|island|岛
+trời|sky, weather
+mặt trời|sun
+mặt trăng|moon
+mây|cloud
+mưa|rain
+gió|wind
+nắng|sunny, sunshine
+bão|storm
+tuyết|snow|雪
+cây|tree, plant
+hoa|flower|花
+lá|leaf
+cỏ|grass
+chó|dog
+mèo|cat
+chim|bird
+cá|fish
+gà|chicken
+bò|cow, beef
+heo|pig (southern)
+lợn|pig
+vịt|duck
+tôm|shrimp
+cua|crab
+động vật|animal|动物
+thành phố|city|城铺
+thủ đô|capital|首都
+nông thôn|countryside|农村
+quê|hometown
+quê hương|homeland|乡
+đất nước|country
+quốc gia|country, nation|国家
+thế giới|world|世界
+việt nam|Vietnam|越南
+trung quốc|China|中国
+hàn quốc|Korea|韩国
+nhật bản|Japan|日本
+mỹ|America|美
+pháp|France|法
+thái lan|Thailand|泰
+sài gòn|Saigon
+hà nội|Hanoi|河内
+đà nẵng|Da Nang
+tiếng|language, sound
+tiếng việt|Vietnamese language
+tiếng anh|English language
+tiếng trung|Chinese language
+tiếng hoa|Chinese language|华
+chữ|letter, writing|字
+câu|sentence|句
+nghĩa|meaning|义
+ý nghĩa|meaning|意义
+ý|idea|意
+ý kiến|opinion|意见
+câu hỏi|question
+vấn đề|problem, issue|问题
+lý do|reason|理由
+cách|way, method
+việc|work, matter|役
+công việc|work, job|工役
+nghề|profession|艺
+lương|salary|粮
+hợp đồng|contract|合同
+cuộc họp|meeting
+dự án|project|预案
+kế hoạch|plan|计划
+kinh nghiệm|experience|经验
+cơ hội|opportunity|机会
+thành công|success|成功
+nỗ lực|effort|努力
+mục tiêu|goal|目标
+kết quả|result|结果
+sức khỏe|health
+cơ thể|body|肌体
+đầu|head, beginning|头
+tóc|hair
+mặt|face
+mắt|eye|目
+mũi|nose
+miệng|mouth
+môi|lips
+răng|tooth
+tai|ear
+cổ|neck, ancient|古
+vai|shoulder
+tay|hand, arm
+ngón tay|finger
+chân|leg, foot
+bụng|stomach
+lưng|back
+tim|heart
+trái tim|heart (love)
+tâm|heart, mind|心
+lòng|heart, feelings
+tình|love, feeling|情
+tình yêu|love|情
+tình cảm|feelings, affection|情感
+tình bạn|friendship|情
+hôn nhân|marriage|婚姻
+đám cưới|wedding
+kỷ niệm|memory, anniversary|纪念
+quà|gift
+món quà|gift
+thư|letter|书
+nụ cười|smile
+nụ hôn|kiss
+giấc mơ|dream
+cuộc sống|life
+cuộc đời|life (lifetime)
+đời|life, generation|代
+văn hóa|culture|文化
+lịch sử|history|历史
+âm nhạc|music|音乐
+bài hát|song
+phim|film, movie
+điện ảnh|cinema|电影
+nghệ thuật|art|艺术
+thể thao|sports|体操
+bóng đá|football
+trò chơi|game
+sở thích|hobby|所适
+tin tức|news|信息
+báo|newspaper|报
+kinh tế|economy|经济
+chính trị|politics|政治
+xã hội|society|社会
+khoa học|science|科学
+giáo dục|education|教育
+tôn giáo|religion|宗教
+chùa|pagoda
+nhà thờ|church
+đền|temple|殿
+tự do|freedom|自由
+hòa bình|peace|和平
+thiên nhiên|nature|天然
+phong cảnh|scenery|风景
+khí hậu|climate|气候
+môi trường|environment|媒场
+món|dish
+món ăn|dish, food
+đồ ăn|food
+thức ăn|food
+thực phẩm|food|食品
+bữa|meal
+bữa sáng|breakfast
+bữa trưa|lunch
+bữa tối|dinner
+cơm|rice (cooked), meal
+gạo|rice (uncooked)
+phở|phở noodle soup
+bún|rice vermicelli
+bún chả|grilled pork with noodles
+bún bò|beef noodle soup
+mì|noodles|面
+miến|glass noodles|面
+hủ tiếu|noodle soup (southern)
+bánh|cake, bread, dumpling|饼
+bánh mì|bread, bánh mì|饼面
+bánh cuốn|steamed rice rolls
+bánh xèo|crispy pancake
+chả giò|fried spring rolls
+nem|spring roll
+gỏi cuốn|fresh spring rolls
+xôi|sticky rice
+cháo|rice porridge
+canh|soup|羹
+lẩu|hotpot
+thịt|meat
+thịt bò|beef
+thịt gà|chicken meat
+thịt heo|pork
+thịt lợn|pork
+hải sản|seafood|海产
+trứng|egg
+đậu|beans, tofu|豆
+đậu phụ|tofu|豆腐
+rau|vegetables
+rau thơm|herbs
+trái cây|fruit
+hoa quả|fruit
+chuối|banana
+xoài|mango
+dừa|coconut
+chanh|lime, lemon
+dưa hấu|watermelon
+táo|apple|枣
+nho|grapes
+sầu riêng|durian
+cà chua|tomato
+khoai|potato, taro
+hành|onion, spring onion
+tỏi|garlic
+ớt|chilli
+gừng|ginger
+muối|salt
+nước mắm|fish sauce
+nước tương|soy sauce
+dầu|oil|油
+bơ|butter, avocado
+sữa|milk
+sữa chua|yoghurt
+phô mai|cheese
+kem|ice cream, cream
+bia|beer
+rượu|wine, alcohol
+nước ngọt|soft drink
+nước suối|bottled water
+nước lọc|plain water
+nước cam|orange juice
+sinh tố|smoothie
+trà|tea|茶
+trà đá|iced tea
+cà phê|coffee
+cà phê đen|black coffee
+cà phê sữa|milk coffee
+ly|glass
+cốc|cup, glass
+chén|bowl (southern), cup
+bát|bowl
+tô|large bowl
+đĩa|plate
+dĩa|plate, fork
+đũa|chopsticks
+thìa|spoon
+muỗng|spoon (southern)
+dao|knife|刀
+nĩa|fork
+khăn giấy|tissue
+thực đơn|menu|食单
+hóa đơn|bill, receipt|货单
+tính tiền|bill please
+mang về|takeaway
+ăn chay|eat vegetarian|斋
+chay|vegetarian|斋
+ngon miệng|tasty, appetising
+no bụng|full
+đói bụng|hungry
+khát nước|thirsty
+uống rượu|drink alcohol
+dô|cheers
+một hai ba dô|1-2-3 cheers
+bao nhiêu tiền|how much
+đồng|đồng (currency), field|铜
+giá|price|价
+giảm giá|discount|减价
+khuyến mãi|promotion|劝卖
+mua sắm|shopping
+trả giá|bargain
+mặc cả|bargain
+cái này|this one
+cái kia|that one
+cái đó|that one
+bên trái|left side
+bên phải|right side
+rẽ|turn
+trái|left, fruit
+thẳng|straight
+đi thẳng|go straight
+dừng lại|stop
+chỗ|place, spot
+nơi|place
+địa chỉ|address|地址
+số|number|数
+số điện thoại|phone number
+mật khẩu|password|密口
+wifi|wifi
+cứu với|help!
+cẩn thận|careful|谨慎
+coi chừng|watch out
+không sao|it's okay
+không có gì|you're welcome
+xin chào|hello
+chào|hello, goodbye
+tạm biệt|goodbye|暂别
+hẹn gặp lại|see you again
+rất vui được gặp|nice to meet you
+chúc ngủ ngon|good night
+ngủ ngon|sleep well
+chúc mừng năm mới|Happy New Year|祝
+cố lên|keep going!
+trời ơi|oh my god
+vậy|so, then, like that
+thế|so, like that
+như vậy|like that
+như thế|like that
+vậy thì|then, in that case
+tại vì|because
+hay là|or, how about
+thế nhưng|however
+tuy nhiên|however|虽然
+nhưng mà|but
+mà còn|but also
+không chỉ|not only
+ngoài ra|besides
+ví dụ|for example|譬喻
+tóm lại|in short
+thật ra|actually
+thực ra|actually|实
+dĩ nhiên|of course|已然
+tất nhiên|of course|必然
+đương nhiên|naturally|当然
+mong muốn|wish, desire
+ước gì|I wish
+càng|the more
+càng ngày càng|more and more
+dần dần|gradually
+hầu hết|mostly
+gần như|almost
+khoảng|about, approximately
+chừng|about
+đến nỗi|so much that
+hôn lễ|wedding ceremony|婚礼
+tâm sự|confide, heart-to-heart|心事
+bình an|safe and well|平安
+chuyện|story, matter|传
+câu chuyện|story
+mối quan hệ|relationship|关系
+quan hệ|relationship|关系
+đối tác|partner (business)|对作
+bạn đời|life partner
+nửa kia|other half
+anh yêu|my love (to older)
+em yêu|my love (to younger)
+cưng|darling
+yêu thương|love, cherish
+thương|love, care for|伤
+thương nhớ|miss dearly
+nhớ nhung|long for
+hẹn hò|go on a date
+hẹn|appointment, promise
+cuộc hẹn|date, appointment
+gặp mặt|meet in person
+làm ơn|please
+vui lòng|please (polite)
+xin vui lòng|please kindly
+không thể|cannot
+nên làm|should do
+phải làm|must do
+đi ăn|go eat
+đi uống|go for drinks
+đi ngủ|go to bed
+đi chợ|go to the market
+đi mua sắm|go shopping
+ở nhà|at home
+về quê|go back to hometown
+ra đời|be born, launch
+nói dối|lie
+nói thật|tell the truth
+thật lòng|sincerely
+một mình|alone
+cùng nhau|together
+với nhau|with each other
+lẫn nhau|mutually
+bên nhau|together, side by side
+mãi bên nhau|together forever
+trở nên|become
+dường như|seems
+cảm giác|feeling|感觉
+cảm xúc|emotion|感触
+cảm động|touched, moved|感动
+tâm trạng|mood|心状
+tính cách|personality|性格
+thói quen|habit
+kỹ năng|skill|技能
+khả năng|ability|可能
+năng lực|capability|能力
+kiến thức|knowledge|见识
+trình độ|level|程度
+bài|lesson, article
+bài học|lesson
+bài tập|exercise, homework
+lớp|class
+lớp học|class
+khóa học|course
+giờ học|class time
+điểm|point, score|点
+chứng chỉ|certificate|证旨
+thi cử|exams
+đề|topic, test paper|题
+chủ đề|topic|主题
+tiêu đề|title|标题
+thông tin|information|通信
+dữ liệu|data|预料
+mạng xã hội|social media
+trang web|website
+ứng dụng|app, application|应用
+phần mềm|software
+máy ảnh|camera
+tài khoản|account|帐款
+email|email
+gửi tin|send a message
+chuyển khoản|bank transfer
+thanh toán|pay|清算
+thuế|tax|税
+giá cả|prices|价
+chi phí|cost|支费
+lợi nhuận|profit|利润
+đầu tư|invest|投资
+cổ phiếu|stock|股票
+tiền lương|salary
+thu nhập|income|收入
+nợ|debt
+vay|borrow (money)
+công nghệ|technology|工艺
+kỹ thuật|technique|技术
+kiến trúc|architecture|建筑
+nhà cửa|houses
+tòa nhà|building
+công trình|construction project|工程
+bản vẽ|drawing
+vật liệu|material|物料
+bê tông|concrete
+thép|steel
+gỗ|wood
+gạch|brick
+sắt|iron
+chất lượng|quality|质量
+số lượng|quantity|数量
+kích thước|size
+diện tích|area|面积
+chiều cao|height
+chiều dài|length
+chiều rộng|width
+mét|metre
+ki lô mét|kilometre
+cây số|kilometre
+ki lô|kilogram
+lít|litre
+phần trăm|percent
+một nửa|a half
+tổng|total|总
+trung bình|average|中平
+tăng|increase|增
+giảm|decrease|减
+phát triển|develop|发展
+thay thế|replace|替
+cải thiện|improve|改善
+quản lý|manage|管理
+tổ chức|organise, organisation|组织
+họp|meet (in a meeting)
+báo cáo|report|报告
+kế toán|accounting|会计
+nhân sự|human resources|人事
+đối thủ|rival|对手
+thị trường|market|市场
+sản phẩm|product|产品
+dịch vụ|service|役务
+chất|substance|质
+nhà máy|factory
+văn bản|document|文本
+tài liệu|document, material|资料
+hồ sơ|file, dossier|户疏
+giấy tờ|papers
+chữ ký|signature
+luật|law|律
+pháp luật|law|法律
+chính phủ|government|政府
+nhà nước|the state
+quân đội|army|军队
+bầu cử|election
+dân|people|民
+nhân dân|the people|人民
+dân số|population|民数
+cộng đồng|community|共同
+tình nguyện|volunteer|情愿
+từ thiện|charity|慈善
+y tế|healthcare|医济
+sức|strength
+thuốc|medicine
+bệnh nhân|patient|病人
+cảm cúm|flu|感
+sốt|fever
+ho|cough
+đau đầu|headache
+đau bụng|stomach ache
+dị ứng|allergy|异应
+thể dục|exercise|体育
+chạy bộ|jogging
+yoga|yoga
+phòng gym|gym
+cơ bắp|muscle
+cân nặng|weight
+ăn kiêng|diet
+giảm cân|lose weight
+tăng cân|gain weight
+mỡ|fat (body)
+một lúc|a moment
+chút xíu|a tiny bit
+hồi nãy|just now
+lúc nãy|a while ago
+ngày xưa|in the old days
+xưa|old times
+nay|now, today
+sau này|later on
+từ đó|since then
+từ bây giờ|from now on
+cho đến|until
+đến khi|until
+trong lúc|while
+trong vòng|within
+suốt|throughout
+cả ngày|all day
+cả đêm|all night
+mỗi ngày|every day
+hằng ngày|daily|恒
+hàng ngày|daily
+hằng tuần|weekly
+gần nhà|near home
+xa nhà|far from home
+trên đường|on the way
+dọc|along
+khắp|everywhere
+lối ra|exit
+lối vào|entrance
+tầng|floor, storey|层
+góc|corner|角
+tiếp theo|next
+kế tiếp|next|继接
+trước tiên|first of all
+sau đó|after that
+cuối|end
+giữa trưa|midday
+chỗ ngồi|seat
+vé máy bay|plane ticket
+chuyến bay|flight
+chuyến đi|trip
+lịch trình|itinerary|历程
+hướng dẫn|guide|向引
+hướng dẫn viên|tour guide|向引员
+du khách|tourist|游客
+khách du lịch|tourist
+đặc sản|local speciality|特产
+quà lưu niệm|souvenir
+kỷ vật|keepsake|纪物
+cảnh|scene, view|景
+cảnh đẹp|beautiful view
+di tích|historic site|遗迹
+bảo tàng|museum|宝藏
+nhà hát|theatre
+rạp|cinema, theatre
+rạp chiếu phim|cinema
+lễ hội|festival|礼会
+vỉa hè|pavement
+đèn đỏ|red light
+kẹt xe|traffic jam
+tắc đường|traffic jam
+giao thông|traffic|交通
+mũ bảo hiểm|helmet
+bảo hiểm|insurance|保险
+xăng|petrol
+bãi đỗ xe|car park
+trạm|station|站
+bến|pier, stop
+cảng|port|港
+biên giới|border|边界
+hải quan|customs|海关
+thị thực|visa|视实
+visa|visa
+nước ngoài|abroad
+trong nước|domestic
+ngoại|outside, foreign|外
+nội|inside, internal|内
+quốc tế|international|国际
+toàn cầu|global|全球
+châu á|Asia|亚洲
+đông nam á|Southeast Asia|东南亚
+miền bắc|the North|北
+miền nam|the South|南
+miền trung|central region|中
+bắc|north|北
+nam|south, male
+tây|west|西
+người bắc|northerner
+người nam|southerner
+giọng|accent, voice
+giọng nói|voice
+âm|sound|音
+thanh|tone, sound|声
+dấu|accent mark
+dấu hỏi|question tone mark
+chữ cái|letter (alphabet)
+ngữ pháp|grammar|语法
+từ vựng|vocabulary|词汇
+câu nói|saying
+thành ngữ|idiom|成语
+tục ngữ|proverb|俗语
+nữ|female|女
+trai|boy, male
+gái|girl, female
+đồng tính|gay, same-sex|同性
+người đồng tính|gay person|同性
+cầu vồng|rainbow
+tự nhiên|natural, naturally|自然
+tôn trọng|respect|尊重
+bình đẳng|equality|平等
+niềm vui|joy
+nỗi buồn|sadness
+nỗi nhớ|longing
+ký ức|memory|记忆
+trí nhớ|memory (ability)|智
+mơ ước|dream
+lời|word, speech
+lời hứa|promise
+lời nói|words
+lời khuyên|advice
+câu trả lời|answer
+lý tưởng|ideal|理想
+thành thật|honest|诚实
+trung thành|loyal|忠诚
+chung thủy|faithful|终始
+yêu quý|cherish
+quý|precious|贵
+quý giá|precious|贵价
+quan trọng nhất|most important
+đặc biệt là|especially
+nhất là|especially
+ăn sáng|have breakfast
+ăn trưa|have lunch
+ăn tối|have dinner
+ăn uống|eat and drink
+ăn cơm|eat (a meal)
+ăn no|eat until full
+ăn vặt|snack
+đồ uống|drinks
+nước uống|drinking water
+nấu cơm|cook rice
+đi dạo|take a stroll
+dạo phố|stroll the streets
+tản bộ|go for a walk|散步
+ngắm|admire, gaze at
+ngắm cảnh|sightseeing
+ngắm hoàng hôn|watch the sunset
+hoàng hôn|sunset|黄昏
+bình minh|dawn|平明
+cảnh đêm|night view
+ánh sáng|light
+bóng|shadow, ball
+tối tăm|dark, gloomy
+sáng sủa|bright
+nhẹ nhàng|gentle, light
+nhanh chóng|quickly
+chậm rãi|slowly
+từ từ|slowly, take it easy
+nhanh lên|hurry up
+chờ chút|wait a moment
+đợi chút|wait a moment
+đợi đã|wait a sec
+xong|done, finished
+xong rồi|all done
+chưa xong|not finished
+tiếp tục|continue|接续
+hoàn thành|complete|完成
+thành|become, city|成
+gửi lời|send regards
+gửi lời chào|send greetings
+lời chào|greeting
+chào buổi sáng|good morning
+chào buổi tối|good evening
+không được|not allowed, can't
+không biết|don't know
+không hiểu|don't understand
+nói lại|say again
+nói chậm|speak slowly
+ở đâu|where
+mấy giờ|what time
+bao lâu|how long
+bao xa|how far
+bao nhiêu tuổi|how old
+tên là|named
+sống ở|live in
+đúng rồi|that's right
+sai rồi|that's wrong
+của em|yours
+của anh|mine, yours
+của tôi|my, mine
+của bạn|your, yours
+của chúng ta|our
+người ấy|that person, him/her
+anh ấy|he, him
+chị ấy|she, her
+cô ấy|she, her
+em ấy|he/she (younger)
+ông ấy|he (older man)
+bà ấy|she (older woman)
+bọn mình|we, us
+tụi mình|we, us (southern)
+tụi nó|they (casual)
+bọn họ|they
+ai đó|someone
+đâu đó|somewhere
+lúc đó|at that time
+khi đó|then
+bây giờ thì|now then
+hiện nay|nowadays|现
+dạo này|lately
+hồi đó|back then
+hồi nhỏ|as a child
+ngày nào|which day, every day
+ngày nào cũng|every day
+mấy ngày|a few days
+vài|a few
+vài ngày|a few days
+nhiều lần|many times
+một lần|once
+hai lần|twice
+lần sau|next time
+lần trước|last time
+lần này|this time
+lần nữa|once more
+thêm một lần|one more time
+bắt buộc|compulsory|迫
+tùy|up to, depends|随
+tùy ý|as you like|随意
+không chắc|not sure
+mong là|hopefully
+tiếc|regret, pity|惜
+đáng tiếc|regrettable
+xin phép|ask permission|法
+cảm phiền|excuse me (for bothering)|感烦
+phiền|bother|烦
+làm phiền|disturb
+không dám|you're welcome (humble)
+đừng|don't
+đừng lo|don't worry
+đừng buồn|don't be sad
+đừng khóc|don't cry
+hãy|let's, please (imperative)
+gặp sau|see you later
+mai gặp|see you tomorrow
+hẹn mai|see you tomorrow
+đến nơi|arrive
+xuất phát|depart|出发
+khởi hành|depart|起行
+đặt vé|book a ticket
+hủy|cancel|毁
+đổi|change, exchange
+đổi tiền|exchange money
+tỷ giá|exchange rate|比价
+đô la|dollar
+đô la singapore|Singapore dollar
+ngoại tệ|foreign currency|外币
+rút tiền|withdraw cash
+cây atm|ATM
+hỏng|broken
+mất điện|power cut
+mất mạng|lost connection
+mất ví|lose wallet
+bị lạc|get lost
+lạc đường|lost
+gọi cảnh sát|call the police
+gọi xe|book a ride
+đặt xe|book a ride
+gọi grab|book a Grab
+xe ôm|motorbike taxi
+cuốc xe|a ride
+quãng đường|distance
+khoảng cách|distance
+bản thân|oneself|本身
+cá nhân|individual|个人
+riêng tư|privacy|私
+bí mật|secret|秘密
+sự thật|the truth, truth|事实
+lời nói dối|a lie
+niềm tin|trust, belief
+tin tưởng|trust|信
+hiểu lầm|misunderstand
+giận dỗi|sulk
+làm lành|make up (after a fight)
+không sao mà|it's fine
+an ủi|comfort|安慰
+động viên|encourage|动员
+ủng hộ|support|拥护
+khen ngợi|praise
+bất ngờ|surprise|不
+kỷ niệm ngày cưới|wedding anniversary|纪念
+ngày kỷ niệm|anniversary|纪念
+valentine|Valentine's Day
+lễ tình nhân|Valentine's Day|礼情人
+hoa hồng|rose|花红
+sô cô la|chocolate
+nhẫn|ring
+cầu hôn|propose|求婚
+đính hôn|get engaged|订婚
+tuần trăng mật|honeymoon
+nhà riêng|own house
+chuyển nhà|move house
+thuê|rent
+cho thuê|for rent
+tiền thuê|rent money
+chủ nhà|landlord
+khu phố|neighbourhood
+quận|district|郡
+phường|ward|坊
+huyện|district (rural)|县
+tỉnh|province, sober, awake
+làng|village
+xóm|hamlet
+trung tâm|centre|中心
+trung tâm thương mại|shopping mall|中心商卖
+chung cư|apartment block|共居
+biệt thự|villa|别墅
+nhà phố|townhouse
+khu vực|area|区域
+vùng|region
+vị trí|location|位置
+hướng|direction|向
+gió mùa|monsoon
+nhiệt độ|temperature|热度
+độ|degree|度
+độ ẩm|humidity
+trời mưa|it's raining
+trời nắng|it's sunny
+trời lạnh|it's cold
+trời nóng|it's hot
+mưa to|heavy rain
+mưa nhỏ|light rain
+nắng nóng|hot and sunny
+mát mẻ|cool, pleasant
+con số|figure, number
+số một|number one
+số hai|number two
+đầu tiên là|first is
+thứ nhì|second
+hạng|rank, class|项
+loại|type, kind|类
+kiểu|style, type
+phong cách|style|风格
+thời trang|fashion|时装
+mẫu|model, sample|母
+màu sắc|colours|色
+kích cỡ|size
+cỡ|size
+chật|tight
+thử đồ|try on clothes
+mặc thử|try on
+phòng thử đồ|fitting room
+hợp|suitable|合
+phù hợp|suitable|符合
+hợp nhau|compatible
+tâm đầu ý hợp|kindred spirits|心投意合
+duyên|fate (in love)|缘
+có duyên|charming, fated
+định mệnh|destiny|定命
+tình đầu|first love|情
+yêu đơn phương|one-sided love|单方
+thất tình|heartbroken|失情
+chia tay|break up
+quay lại với nhau|get back together
+người cũ|ex
+người mới|new partner
+thả thính|flirt
+crush|crush
+cảm nắng|have a crush
+tán tỉnh|flirt
+trêu|tease
+đùa|joke
+nói đùa|joke
+chuyện cười|joke, funny story
+buồn cười|funny
+hài hước|humorous|谐谑
+nghiêm túc|serious|严肃
+thoải mái|comfortable, relaxed
+căng thẳng|stressed
+áp lực|pressure|压力
+nghỉ phép|take leave|法
+xin nghỉ|ask for leave
+tăng ca|overtime|增
+làm thêm|part-time job, overtime
+tan làm|finish work
+tan ca|finish shift
+đi công tác|business trip|公作
+họp hành|meetings
+email công việc|work email
+lịch|calendar, schedule|历
+lịch họp|meeting schedule
+hạn chót|deadline
+gấp|urgent, fold|急
+khẩn cấp|emergency|紧急
+cấp cứu|emergency (medical)|急救
+xe cứu thương|ambulance
+phòng khám|clinic
+nha sĩ|dentist|牙士
+thuốc men|medicine
+đơn thuốc|prescription|单
+huyết áp|blood pressure|血压
+tiểu đường|diabetes|小糖
+máu|blood
+xương|bone
+da|skin
+mồ hôi|sweat
+ngủ trưa|nap
+mất ngủ|insomnia
+thức khuya|stay up late
+dậy sớm|wake up early
+ngủ nướng|sleep in
+đánh răng|brush teeth
+rửa mặt|wash face
+gội đầu|wash hair
+cắt tóc|haircut
+trang điểm|make-up|妆点
+nước hoa|perfume
+xà phòng|soap
+khăn|towel, scarf
+khẩu trang|face mask|口装
+có phải|is it?
+hết rồi|sold out, all gone
+không còn|no more
+cho tôi xem|let me see
+cho xem|show me
+xem thử|have a look
+thử xem|let's try
+dị ứng với|allergic to
+không đường|no sugar
+ít đá|less ice
+không đá|no ice
+nhiều đá|more ice
+nóng hay đá|hot or iced
+mang đi|to go
+ăn ở đây|eat here
+uống ở đây|drink here
+một phần|one portion
+hai phần|two portions
+phần|portion, part|分
+suất|serving
+cơm tấm|broken rice
+cơm gà|chicken rice
+bánh bao|steamed bun|包
+há cảo|har gow dumpling|虾饺
+sủi cảo|dumplings|水饺
+vịt quay|roast duck
+heo quay|roast pork
+lạp xưởng|Chinese sausage|腊肠
+xá xíu|char siu|叉烧
+mì vịt tiềm|braised duck noodles
+trà sữa|bubble tea
+trà xanh|green tea
+trà chanh|lemon tea
+nước mía|sugarcane juice
+nước dừa|coconut water
+chè|sweet dessert soup, tea
+kem dừa|coconut ice cream
+bánh flan|crème caramel
+hạt|seed, nut
+hạt dưa|melon seeds
+đậu phộng|peanuts
+bắp|corn
+ngô|corn
+nấm|mushroom
+cà tím|aubergine
+dưa leo|cucumber
+dưa chuột|cucumber
+bắp cải|cabbage
+rau muống|morning glory
+giá đỗ|bean sprouts
+húng quế|Thai basil
+ngò|coriander
+sả|lemongrass
+nước chấm|dipping sauce
+tương ớt|chilli sauce
+xì dầu|soy sauce|豉油
+dấm|vinegar
+vừa ăn|well seasoned
+tươi|fresh
+nướng|grilled
+chiên|fried
+xào|stir-fried
+luộc|boiled
+hấp|steamed
+kho|braised
+quay|roasted
+hầm|stewed
+trộn|mixed
+cuốn|rolled, roll
+đặt món|order food
+gọi món|order food
+chọn món|choose dishes
+món chính|main course
+món tráng miệng|dessert
+khai vị|appetiser|开胃
+đặc biệt nhất|most special
+món ngon|tasty dish
+quán ăn|eatery
+quán nhậu|drinking spot
+nhậu|drink (socially)
+say|drunk
+uống say|get drunk
+một trăm phần trăm|bottoms up
+nâng ly|raise a glass
+cạn ly|cheers, bottoms up
+xin mời|please, go ahead
+cảm ơn nhiều|thanks a lot
+xin cảm ơn|thank you (formal)
+rất cảm ơn|thank you very much
+không có chi|you're welcome (southern)
+dạ vâng|yes (polite)
+nhỉ|isn't it?
+chứ|of course, surely
+hả|huh?
+hử|eh?
+ồ|oh
+ôi|oh
+ui|ouch, oh
+chà|wow
+wow|wow
+ok|okay
+oke|okay
+tuyệt đối|absolutely|绝对
+hoàn toàn|completely|完全
+gần như là|almost
+chỉ là|it's just
+chỉ có|only
+mỗi một|every single
+toàn bộ|entire|全部
+phần lớn|most of
+một số|some|数
+vài người|a few people
+nhiều người|many people
+ít người|few people
+không ai|nobody
+không bao lâu|soon
+bất cứ|any|不据
+bất kỳ|any|不期
+mọi thứ|everything
+mọi nơi|everywhere
+mọi lúc|all the time
+mọi ngày|every day
+cả hai|both
+cả nhà|whole family
+cả lớp|whole class
+từng người|each person
+từng chút|bit by bit
+thứ|thing, -th|次
+đồ|stuff, things
+đồ đạc|belongings
+đồ chơi|toy
+đồ dùng|utensils
+hàng|goods, row|行
+hàng hóa|goods|行货
+mua hàng|buy goods
+giao hàng|deliver goods|交
+nhận hàng|receive goods
+đơn hàng|order|单
+gói|package, wrap
+hộp|box|盒
+chai|bottle
+lon|can
+túi ni lông|plastic bag
+áo khoác|jacket
+áo sơ mi|shirt
+áo dài|áo dài (long dress)
+áo thun|T-shirt
+quần short|shorts
+quần jean|jeans
+tất|socks
+vớ|socks (southern)
+dây chuyền|necklace
+bông tai|earrings
+vòng tay|bracelet, embrace
+balo|backpack
+ba lô|backpack
+cặp|bag, pair
+cái ô|umbrella
+gương|mirror
+lược|comb
+bàn chải|brush
+kem đánh răng|toothpaste
+giấy vệ sinh|toilet paper
+chăn|blanket
+gối|pillow
+nệm|mattress
+rèm|curtain
+thảm|carpet
+bình|vase, jar|瓶
+cốc nước|glass of water
+nồi|pot
+chảo|pan
+bếp ga|gas stove
+lò vi sóng|microwave
+lò|oven
+máy sấy|dryer
+bàn là|iron
+bàn ủi|iron (southern)
+ổ cắm|socket
+dây|string, cable
+công tắc|switch
+bóng đèn|light bulb
+pin sạc|power bank
+tai nghe|earphones
+loa|speaker
+màn hình|screen
+bàn phím|keyboard
+chuột|mouse, rat
+mạng wifi|wifi network
+mật mã|code|密码
+tin nhắn thoại|voice message
+cuộc gọi|call
+gọi video|video call
+ảnh chụp|photo
+video|video
+nhạc|music|乐
+ca khúc|song|歌曲
+giai điệu|melody|佳调
+nhạc sĩ|composer|乐士
+đàn|musical instrument
+đàn ghi ta|guitar
+đàn piano|piano
+trống|drum
+vẽ tranh|painting
+tranh|painting
+bức tranh|a painting
+nhiếp ảnh|photography|摄影
+sân khấu|stage
+khán giả|audience|看者
+vé xem phim|movie ticket
+truyện|story, comic|传
+tiểu thuyết|novel|小说
+thơ|poetry|诗
+nhà thơ|poet
+tác giả|author|作者
+nhân vật|character|人物
+câu lạc bộ|club|俱乐部
+đội|team|队
+trận|match|阵
+trận đấu|match
+cầu thủ|player|球手
+huấn luyện viên|coach|训练员
+sân vận động|stadium|场运动
+bể bơi|swimming pool
+hồ bơi|swimming pool
+bơi lội|swimming
+leo núi|hiking, climbing
+cắm trại|camping
+câu cá|fishing
+đi biển|go to the beach
+nghỉ mát|go on holiday
+khu nghỉ dưỡng|resort|休养
+du thuyền|cruise|游船
+vịnh|bay
+vịnh hạ long|Ha Long Bay|下龙
+hội an|Hoi An|会安
+huế|Hue
+đà lạt|Da Lat
+nha trang|Nha Trang
+phú quốc|Phu Quoc|富国
+mê kông|Mekong
+đồng bằng|delta, plain
+ruộng|rice field
+lúa|rice plant
+vườn|garden|园
+hoa sen|lotus|莲花
+hoa cúc|daisy, chrysanthemum|菊花
+hoa mai|apricot blossom|梅花
+hoa đào|peach blossom|桃花
+cây xanh|greenery
+bóng mát|shade
+gió nhẹ|breeze
+trời xanh|blue sky
+mặt hồ|lake surface
+bờ biển|coast
+cát|sand
+sóng|wave
+hòn đảo|island
+thác|waterfall
+hang|cave
+đồi|hill
+thung lũng|valley
+đường mòn|trail
+con vật|animal
+thú cưng|pet
+cún|puppy
+mèo con|kitten
+chuột hamster|hamster
+khỉ|monkey
+voi|elephant
+hổ|tiger|虎
+rồng|dragon
+phượng|phoenix|凤
+rùa|turtle
+rắn|snake
+ếch|frog
+bướm|butterfly
+ong|bee
+muỗi|mosquito
+kiến|ant
+gián|cockroach
+con trâu|buffalo
+con ngựa|horse
+ngựa|horse
+cừu|sheep
+dê|goat
+thỏ|rabbit|兔
+gấu|bear
+cá heo|dolphin
+cá mập|shark
+cá voi|whale
+tim đập|heartbeat
+hơi thở|breath
+giọt nước mắt|teardrop
+nước mắt|tears
+nụ|bud, (counter for smile/kiss)
+ánh mắt|gaze
+nụ cười tươi|bright smile
+cái ôm|a hug
+bàn tay|hand
+đôi mắt|eyes
+đôi môi|lips
+mái tóc|hair
+khuôn mặt|face
+dáng|figure, shape
+ngoại hình|appearance|外形
+tính tình|temperament|性情
+lòng tốt|kindness
+sự quan tâm|care|关心
+sự kiện|event|事件
+sự việc|incident|事役
+hoạt động|activity|活动
+trải nghiệm|experience
+kỳ vọng|expectation|期望
+thử thách|challenge|试
+cố định|fixed|固定
+tạm thời|temporary|暂时
+lâu dài|long-term
+ngắn hạn|short-term|限
+dài hạn|long-term|限
+thường ngày|everyday|常
+hàng tuần|weekly
+hàng tháng|monthly
+hàng năm|yearly
+mỗi tuần|every week
+mỗi tháng|every month
+mỗi năm|every year
+đầu năm|start of the year
+cuối năm|end of the year
+giữa năm|mid-year
+đầu tháng|start of the month
+cuối tháng|end of the month
+tối qua|last night
+sáng mai|tomorrow morning
+chiều nay|this afternoon
+trưa nay|this noon
+năm tới|next year
+sắp xếp lịch|arrange a schedule
+rảnh rỗi|free time
+thời gian rảnh|free time
+bận rộn|busy
+chăm chỉ|hardworking
+lười|lazy
+lười biếng|lazy
+siêng năng|diligent
+cẩn trọng|cautious|谨重
+cẩu thả|careless|苟且
+gọn gàng|tidy
+bừa bộn|messy
+sang trọng|luxurious
+giản dị|simple, modest|简易
+xa xỉ|extravagant|奢侈
+tiết kiệm tiền|save money
+giàu|rich
+nghèo|poor
+đông đúc|crowded
+nhộn nhịp|bustling
+yên bình|peaceful|安平
+thanh bình|peaceful|清平
+náo nhiệt|lively|闹热
+cổ kính|ancient-looking|古
+hiện đại hóa|modernise|现代化
+nổi bật|outstanding
+xuất sắc|excellent|出色
+hoàn hảo|perfect|完好
+tệ|bad
+kém|poor, less
+tồi|bad, awful
+dở tệ|terrible
+khủng khiếp|terrible|恐
+tuyệt đẹp|stunning|绝
+lộng lẫy|splendid
+dễ dàng|easily
+khó khăn|difficult, hardship
+vất vả|hard work, toilsome
+thuận lợi|favourable|顺利
+bất tiện|inconvenient|不便

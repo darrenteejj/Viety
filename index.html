@@ -982,10 +982,18 @@ $('#lQuiz').onclick=()=>{ stopPlay(); let pool=P.learned.length>=4?P.learned.sli
 // outside the Claude app: free web translation + a word-by-word gloss from Viety's own dictionary
 const DICT=(()=>{ const d={}; PHRASES.forEach(p=>(p.words||[]).forEach(w=>{ const k=norm2(w.vi); if(!d[k]) d[k]=w.en.replace(/ \((older|younger) partner\)/,''); })); return d; })();
 function norm2(s){ return s.toLowerCase().replace(/[.,!?;:"“”]/g,'').trim(); }
-function glossVi(vi){
-  const toks=vi.replace(/[.,!?;:"“”]/g,' ').split(/\s+/).filter(Boolean), out=[];
+let BIGP=null; // Viety's 2,000-word dictionary (dict.txt next to the page): word|meaning|Chinese
+function loadBig(){
+  if(!BIGP) BIGP=fetch('dict.txt').then(r=>r.ok?r.text():'').then(txt=>{ const m={};
+    txt.split('\n').forEach(l=>{ const [vi,en,han]=l.split('|'); if(vi&&en) m[norm2(vi.normalize('NFC'))]=han?`${en} (${han})`:en; }); return m; }).catch(()=>({}));
+  return BIGP;
+}
+async function glossVi(vi){
+  const big=await loadBig();
+  const look=k=>big[k]||DICT[k];
+  const toks=vi.normalize('NFC').replace(/[.,!?;:"“”]/g,' ').split(/\s+/).filter(Boolean), out=[];
   for(let i=0;i<toks.length;){ let hit=null;
-    for(let n=Math.min(3,toks.length-i);n>=1;n--){ const k=norm2(toks.slice(i,i+n).join(' ')); if(DICT[k]){ hit={vi:toks.slice(i,i+n).join(' '),en:DICT[k]}; i+=n; break; } }
+    for(let n=Math.min(4,toks.length-i);n>=1;n--){ const g=toks.slice(i,i+n).join(' '), m=look(norm2(g)); if(m){ hit={vi:g,en:m}; i+=n; break; } }
     if(!hit){ hit={vi:toks[i],en:'tap to hear'}; i++; } out.push(hit); }
   return out;
 }
@@ -995,7 +1003,7 @@ async function webTranslate(text){
   const j=await r.json(); let vi=(j&&j.responseData&&j.responseData.translatedText||'').trim();
   if(!vi||/MYMEMORY WARNING|QUERY LENGTH/i.test(vi)) throw {code:'web'};
   const ta=document.createElement('textarea'); ta.innerHTML=vi; vi=ta.value;
-  return {vi,pr:'',en:text,words:glossVi(vi),note:'Quick web translation. Word meanings come from Viety\'s phrase list, so some words show "tap to hear".'};
+  return {vi,pr:'',en:text,words:await glossVi(vi),note:'Quick web translation. Word meanings come from Viety\'s 2,000-word dictionary.'};
 }
 let trWho='anyone', trLast=null, samplerP=null;
 function getSampler(){ if(!samplerP) samplerP=(window.claude&&claude.use)?claude.use('sample').catch(()=>null):Promise.resolve(null); return samplerP; }
@@ -1055,6 +1063,7 @@ $('#trSave').onclick=()=>{ if(!trLast) return; P.custom=P.custom||[];
   save(); showTr(trLast); renderPhrases(); };
 
 $('#hvEntry').onclick=openHV;
+if(!(window.claude&&claude.use)) loadBig(); // shared link: get the dictionary ready before the first translation
 function render(){ const hs=$('#hvEntrySub'); if(hs) hs.textContent=(hvI>0?`Word ${hvI+1} of ${HV_WORDS.length} · `:`${HV_WORDS.length} words · `)+'Vietnamese and Mandarin, side by side'; P.learned=P.learned.filter(id=>byId[id]); P.favs=P.favs.filter(id=>byId[id]||(P.custom||[]).some(c=>c.id===id)); renderLearn(); renderPhrases(); renderListen(); }
 
 /* ---------- tabs ---------- */
